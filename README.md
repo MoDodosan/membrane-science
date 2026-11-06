@@ -12,7 +12,6 @@ Citation
 
 If you use this model, including any modified or derivative versions, to generate data, simulation results, or figures for scientific publications, please cite the original work.
 
-Users are free to use and modify the model under the terms of the MIT License. Prior permission from the authors is not required.
 
 Reference:
 
