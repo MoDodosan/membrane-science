@@ -2,7 +2,7 @@ Overview
 
 This repository provides an interactive, web-based implementation of the Donnan–Steric Pore Model with Dielectric Exclusion (DSPM-DE) for simulating ion transport in nanofiltration membranes.
 
-Usage
+How to use
 
 The visualized DSPM-DE model can be run directly by opening dspm_de_classic.html in a web browser. No additional installation is required.
 pore_d is the program to calculate pore size distributution of membrane.
